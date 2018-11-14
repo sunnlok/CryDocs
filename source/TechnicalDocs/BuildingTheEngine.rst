@@ -4,7 +4,14 @@ Building the Engine
 
 Requirements
 ------------
+Tools:
+^^^^^^
 
+SDKs:
+^^^^^
+
+Editor SDKs:
+^^^^^^^^^^^^
 
 Cloning from Github
 -------------------
